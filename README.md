@@ -8,9 +8,7 @@
 - [Proje Hakkında](#proje-hakkında)
 - [Özellikler (v1.0.0)](#özellikler-v100)
 - [Kullanılan Donanımlar](#kullanılan-donanımlar)
-- [Pin Bağlantıları](#pin-bağlantıları)
 - [Kurulum ve Çalıştırma](#kurulum-ve-çalıştırma)
-- [Yol Haritası](#yol-haritası)
 
 ### Proje Hakkında
 Ev ve endüstriyel ortamlarda oluşabilecek temel fiziksel tehditleri (Gaz kaçağı, yangın/yüksek sıcaklık ve su baskını) erkenden tespit ederek yerel olarak alarm üreten akıllı bir güvenlik istasyonudur. 
@@ -45,9 +43,7 @@ Projenin bu ilk versiyonu (v1.0.0), donanım entegrasyonu ve tamamen yerel (loca
 - [About the Project](#about-the-project)
 - [Features (v1.0.0)](#features-v100)
 - [Hardware Components](#hardware-components)
-- [Pin Configuration](#pin-configuration)
 - [Installation and Setup](#installation-and-setup)
-- [Roadmap](#roadmap)
 
 ### About the Project
 It is an intelligent security station that detects fundamental physical threats (gas leaks, fire/high temperature, and flooding) that may occur in residential and industrial environments at an early stage and generates local alarms
